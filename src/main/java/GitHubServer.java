@@ -52,7 +52,7 @@ public class GitHubServer extends HttpServlet {
                 + "</head>"
                 + "<body>"
                 + "<h1>🚀 Welcome to My DevOps WAR Deployment Project 🚀</h1>"
-                + "<p>✨ Automated using Jenkins | Built with Java + Maven + Tomcat + Sonatype Nexus ✨</p>"
+                + "<p>✨ Automated using Jenkins | Built with Java + Maven + Tomcat + Sonatype Nexus + webhook ✨</p>"
                 + "<a href='https://github.com/navyasrigondela45' target='_blank'>👉 GitHub</a><br><br>"
                 + "<a href='https://www.linkedin.com/in/navya-sri-gondela-a60091258' target='_blank'>👉 LinkedIn</a>"
                 + "</body>"
